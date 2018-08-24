@@ -1,0 +1,56 @@
+{
+    "SignUpPage" :
+    {
+        "SIGNUP"   : "Sign Up",
+        "GETOTP" : "Get OTP",
+        "COMPANYNAME" : "Your Company Name",
+        "PHONENUMBER" : "Phone Number",
+        "OTP" : "OTP",
+        "PASSWORD" : "Password",
+        "REPASSWORD" : "Retype Password",
+        "COMPANY" : "Company",
+        "PHONE" : "Phone",
+        "REPASS" : "Re-Password",
+        "Warnings" :
+        {
+            "MISMATCH" : "Password Mismatch. ",
+            "PSIZE" : "Password should contain at least 5 characters. ",
+            "EMPTY" : " should not be empty. ",
+            "VALID" : "Enter valid 10 digit phone number. "
+        }
+    },
+    "SignInPage" :
+    {
+        "LOGIN" : "Log In",
+        "SIGNIN" : "Sign In",
+        "NOACCOUNT" : "Don't have an account!",
+        "SIGNHERE" : "Sign Up Here"
+    },
+    "DashBoardPage" :
+    {
+        "TITLE" : "Fleet Tracking",
+        "PROFILE" : "Profile",
+        "ASSIGNED" : "Assigned",
+        "LOGOUT" : "Log Out",
+        "VEHICLE" : "Vehicle",
+        "DRIVER" : "Driver",
+        "SPEED" : "Speed",
+        "TIME" : "Time",
+        "ADD" : "add",
+        "ASSIGN" : "assign",
+        "DEL" : "del",
+        "EDIT" : "edit",
+        "SHOWPATH" : "Show Path",
+        "HIDEPATH" : "Hide Path",
+        "MODIFY" : "Modify Tracking",
+        "CONTINOUS" : "Continous Tracking",
+        "CONFIRM" : "Confirm",
+        "LIST" : "List",
+        "EDITC" : "Edit",
+        "DELETE" : "Delete",
+        "UNASSIGN" : "Unassign",
+        "MINUTE" : "mins",
+        "HOURS" : "hours",
+        "NAME" : "name"
+    }
+}
